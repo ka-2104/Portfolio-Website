@@ -439,23 +439,23 @@ section .title::after {
     background: #3dc7be;
 }
 
-.skills-content .right .html::before {
-    width: 90%;
-}
-
-.skills-content .right .css::before {
-    width: 60%;
-}
-
-.skills-content .right .js::before {
+.skills-content .right .dsa::before {
     width: 80%;
 }
 
-.skills-content .right .java::before {
-    width: 90%;
+.skills-content .right .oops::before {
+    width: 75%;
 }
 
-.skills-content .right .py::before {
+.skills-content .right .os::before {
+    width: 75%;
+}
+
+.skills-content .right .cpp::before {
+    width: 85%;
+}
+
+.skills-content .right .c::before {
     width: 70%;
 }
 
