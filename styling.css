@@ -321,7 +321,7 @@ section .title::after {
 .interest .title::after,
 .teams .title::after {
     background: #111;
-    content: "what i provide";
+    content: "What I do";
 }
 
 .interest .int-content .card {
@@ -376,6 +376,13 @@ section .title::after {
     font-size: 20px;
     font-weight: 600;
     margin-bottom: 10px;
+}
+
+/**/
+.skills .skills-content .column left .text {
+    /* font-size: 20px;
+    font-weight: 600; */
+    margin-top: 10px;
 }
 
 .skills .skills-content .left p {
